@@ -2,4 +2,7 @@
 
 # Hello world
 
+
+gem "minima"
+$ bundle
 theme: minima
